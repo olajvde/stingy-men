@@ -1,4 +1,0 @@
-publishable key = pk_test_51IVcVNAA55iJvkqhyJmSa6M3pg0LCeZT93dRJKuDbE28oDyATnUcIWR3rsKWq0HZHdSIDM4wb13qa853qCiDOd8f00HiTfc94N
-
-
-private key = sk_test_51IVcVNAA55iJvkqhf6oEzW1EWq3Wx186O7NyCxCpEbp0GgJlPQJzXsuh3n3LYRiEA67T88Mk8PhMrW0pE9nb5tgl00vQaSFkjq
