@@ -2,28 +2,28 @@
     <div class="row">
         <div class="col-md-6 text-center">
             <h1 class="display-3 mt-3 pt-5">
-                Web Development Ebook
+                Stingy Men Association Digital Card
             </h1>
-            <p class="lead">Learn Web Dev</p>
+            <p class="lead">Make it official...</p>
             <form action="/charge" method="POST">
         <script
           src="https://checkout.stripe.com/checkout.js" class="stripe-button"
           data-key="{{stripePublishableKey}}"
-          data-amount="2500"
-          data-name="Web Development Ebook"
-          data-description="Ebook sponsored by Olajvde"
-          data-image="/images/marketplace.png"
+          data-amount="100"
+          data-name="SMAN Digital Card"
+          data-description="Card sponsored by Olajvde"
+          data-image="/images/logo.png"
           data-locale="auto">
         </script>
         <script>
           // Hide default stripe button
           document.getElementsByClassName('stripe-button-el')[0].style.display = 'none';
         </script>
-        <button type="submit" class="btn btn-outline-dark text-white btn-lg">Purchase For $25</button>
+        <button type="submit" class="btn btn-outline-dark text-white btn-lg">Purchase For $1</button>
       </form>
         </div>
         <div class="col-md-6">
-            <img src="/images/book.png" alt="" class="img-fluid">
+            <img src="/images/logo.png" alt="" class="img-fluid">
         </div>
     </div>
 </section>
